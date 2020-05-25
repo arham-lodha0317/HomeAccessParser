@@ -1,0 +1,38 @@
+2020-04-25 14:23:47 [scrapy] DEBUG: Crawled (404) <GET https://hac.friscoisd.org/robots.txt> (referer: None)
+2020-04-25 14:23:47 [scrapy] DEBUG: Crawled (200) <GET https://hac.friscoisd.org/HomeAccess/Account/LogOn/> (referer: None)
+2020-04-25 14:23:47 [scrapy] DEBUG: Redirecting (302) to <GET https://hac.friscoisd.org/HomeAccess/> from <POST https://hac.friscoisd.org/HomeAccess/Account/LogOn/>
+2020-04-25 14:23:47 [scrapy] DEBUG: Redirecting (302) to <GET https://hac.friscoisd.org/HomeAccess/Home/WeekView> from <GET https://hac.friscoisd.org/HomeAccess/>
+2020-04-25 14:23:48 [scrapy] DEBUG: Crawled (200) <GET https://hac.friscoisd.org/HomeAccess/Home/WeekView> (referer: https://hac.friscoisd.org/HomeAccess/Account/LogOn/)
+2020-04-25 14:23:50 [scrapy] DEBUG: Crawled (200) <GET https://hac.friscoisd.org/HomeAccess/Content/Student/Assignments.aspx> (referer: https://hac.friscoisd.org/HomeAccess/Home/WeekView)
+2020-04-25 14:23:50 [scrapy] DEBUG: Scraped from <200 https://hac.friscoisd.org/HomeAccess/Content/Student/Assignments.aspx>
+{'classes': [{'className': 'ELA12200B - 4    PAP English II - S2', 'lastUpdated': {'months': 4, 'days': 21, 'years': 2020}, 'average': '  PAP English II - S2', 'Assignments': [{'Name': 'JC Intro Assessment', 'Type': 'eLearning', 'Grade': '95.000%'}, {'Name': 'Letter from Birmingham', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': '"School\'s Out" AEC', 'Type': 'eLearning', 'Grade': '80.000%'}, {'Name': "Mandela's Statement", 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Persuasive Assessment', 'Type': 'eLearning', 'Grade': '95.000%'}]}, {'className': 'FNA32118B - 1    Tenor/Bass Choir A YR2 S2', 'lastUpdated': {'months': 4, 'days': 21, 'years': 2020}, 'average': '  Tenor/Bass Choir A YR2 S2', 'Assignments': [{'Name': 'a cappella app', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Quarantine Playlist', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Sight reading factory', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Broadway Showstoppers', 'Type': 'eLearning', 'Grade': '100.000%'}]}, {'className': 'MTH45305B - 2    AP Calculus BC - S2', 'lastUpdated': {'months': 4, 'days': 21, 'years': 2020}, 'average': '  AP Calculus BC - S2', 'Assignments': [{'Name': 'AP Review Submission 4/20-4/24', 'Type': 'eLearning', 'Grade': ''}, {'Name': 'AP 2020 BC2', 'Type': 'eLearning', 'Grade': ''}, {'Name': 'AP 2020 FRQ #1', 'Type': 'eLearning', 'Grade': '93.000%'}, {'Name': 'Practice Assessment', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Review 3/30-4/3', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Taylor Polynomial Notes and WKS', 'Type': 'Non-graded', 'Grade': '100.00%'}, {'Name': '9.1 Sequences and Series Tests', 'Type': 'eLearning', 'Grade': '90.000%'}]}, {'className': 'PEO01001B - 4    Outdoor Educ PE - S2', 'lastUpdated': {'months': 4, 'days': 17, 'years': 2020}, 'average': '  Outdoor Educ PE - S2', 'Assignments': [{'Name': 'Mapping', 'Type': 'eLearning', 'Grade': '100.000%'}]}, {'className': 'SCI24300B - 1    AP Chemistry - S2', 'lastUpdated': {'months': 4, 'days': 23, 'years': 2020}, 'average': '  AP Chemistry - S2', 'Assignments': [{'Name': 'Student Activism Discussion', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': '1 Science Topic Video Reflection', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'History of Science Discussion', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Study Skills Discussion', 'Type': 'eLearning', 'Grade': '100.000%'}]}, {'className': 'SCI34400B - 4    AP Physics 1 - S2', 'lastUpdated': {'months': 4, 'days': 21, 'years': 2020}, 'average': '  AP Physics 1 - S2', 'Assignments': [{'Name': 'Simple Harmonic Motion Review', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Circular Motion and Gravitation Review', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Forces Review', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Review Kinematics', 'Type': 'eLearning', 'Grade': '100.000%'}]}, {'className': 'SST22300B - 8    AP World History- S2', 'lastUpdated': {'months': 4, 'days': 23, 'years': 2020}, 'average': '  AP World History- S2', 'Assignments': [{'Name': 'Unit 2 DBQ Practice', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Unit 1 Practice DBQ', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Cold War DBQ Practice', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'Decolonization Activity', 'Type': 'eLearning', 'Grade': '100.000%'}, {'Name': 'World War I eLearning Activity', 'Type': 'eLearning', 'Grade': '100.000%'}]}, {'className': 'TEC22250B - 3    Advanced Computer Sci S2@CTEC', 'lastUpdated': {'months': 4, 'days': 21, 'years': 2020}, 'average': '  Advanced Computer Sci S2@CTEC', 'Assignments': [{'Name': 'LAB: Huffman 5', 'Type': 'eLearning', 'Grade': '100.00%'}, {'Name': 'LAB: Huffman 4', 'Type': 'eLearning', 'Grade': '100.00%'}, {'Name': 'LAB: Huffman 3', 'Type': 'eLearning', 'Grade': '100.00%'}, {'Name': 'LAB: Huffman 2', 'Type': 'eLearning', 'Grade': '100.00%'}, {'Name': 'LAB: Huffman 1', 'Type': 'eLearning', 'Grade': '100.00%'}]}]}
+2020-04-25 14:23:50 [scrapy] INFO: Closing spider (finished)
+2020-04-25 14:23:50 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2914,
+ 'downloader/request_count': 6,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 30122,
+ 'downloader/response_count': 6,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/302': 2,
+ 'downloader/response_status_count/404': 1,
+ 'elapsed_time_seconds': 2.811343,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 4, 25, 19, 23, 50, 278861),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 14,
+ 'log_count/INFO': 7,
+ 'memusage/max': 51949568,
+ 'memusage/startup': 51949568,
+ 'request_depth_max': 2,
+ 'response_received_count': 4,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 5,
+ 'scheduler/dequeued/memory': 5,
+ 'scheduler/enqueued': 5,
+ 'scheduler/enqueued/memory': 5,
+ 'start_time': datetime.datetime(2020, 4, 25, 19, 23, 47, 467518)}
+2020-04-25 14:23:50 [scrapy] INFO: Spider closed (finished)
